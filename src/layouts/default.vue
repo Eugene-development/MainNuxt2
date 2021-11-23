@@ -7,23 +7,10 @@
 </template>
 
 <script>
-import Header from './header'
-import Footer from './footer'
-import {mapActions} from "vuex";
+import Start from "~/mixins/start"
 
 export default {
   name: "index",
-  components: {
-    Header,
-    Footer
-  },
-  methods: {
-    ...mapActions({
-      'useLocalStorage': 'user/useLocalStorage',
-    })
-  },
-  mounted() {
-    this.useLocalStorage();
-  },
+  mixins: [Start]
 }
 </script>
