@@ -12,7 +12,7 @@ export const actions = {
 
   useLocalStorage ({ state }){
     const sessionUser = localStorage.getItem('data');
-    if ( sessionUser.length < 1 ){
+    if (!sessionUser){
       localStorage.setItem('data', state.sessionUser);
     }
   },
