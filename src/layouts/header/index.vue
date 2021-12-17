@@ -29,8 +29,8 @@
                 <NuxtLink to="about" class="text-center font-medium text-white hover:text-gray-300">О нас</NuxtLink>
                 <NuxtLink to="services" class="text-base font-medium text-white hover:text-gray-300">Услуги</NuxtLink>
                 <NuxtLink to="gallery" class="text-base font-medium text-white hover:text-gray-300">Галерея</NuxtLink>
-                <NuxtLink to="gallery" class="text-base font-medium text-white hover:text-gray-300">Отзывы</NuxtLink>
-                <NuxtLink to="gallery" class="text-base font-medium text-white hover:text-gray-300">Специалисты</NuxtLink>
+                <NuxtLink to="testimonials" class="text-base font-medium text-white hover:text-gray-300">Отзывы</NuxtLink>
+                <NuxtLink to="specialists" class="text-base font-medium text-white hover:text-gray-300">Специалисты</NuxtLink>
 <!--                <NuxtLink to="blog" class="text-base font-medium text-white hover:text-gray-300">Блог</NuxtLink>-->
                 <NuxtLink to="contacts" class="text-base font-medium text-white hover:text-gray-300">Контакты</NuxtLink>
               </div>
