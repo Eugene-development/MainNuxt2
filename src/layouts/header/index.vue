@@ -112,7 +112,7 @@
         leave-to-class="translate-x-full"
       >
 
-        <div v-if="visibleFormMeasurement" class="fixed inset-0 overflow-hidden" aria-labelledby="slide-over-title"
+        <div v-if="visibleFormMeasurement" class="z-40 fixed inset-0 overflow-hidden" aria-labelledby="slide-over-title"
              role="dialog" aria-modal="true">
           <div class="absolute inset-0 overflow-hidden">
             <!-- Background overlay, show/hide based on slide-over state. -->
