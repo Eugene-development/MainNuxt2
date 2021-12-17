@@ -1,3 +1,7 @@
+import {state, mutations, getters} from '~/mixins/use/store'
+
+
+
 export const state = () => ({
   ruleEmail: {},
   visibleFormEmail: true,
