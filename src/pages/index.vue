@@ -341,177 +341,6 @@
       </div>
 
 
-      <div class="relative bg-gray-50 py-16 sm:py-24 lg:py-32" id="anchor3">
-        <div class="relative">
-          <div class="text-center mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-            <h2 class="text-base font-semibold tracking-wider text-cyan-600 uppercase">Стиль</h2>
-            <p class="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">
-              Выбирайте ваш стиль
-            </p>
-            <p class="mt-5 mx-auto max-w-prose text-xl text-gray-500">
-              Более 1000 квартир отремонтировано "под ключ"нашими стараниями! В разном стиле и разным масштабом
-              работ. В любом случае наша экспертиза позволяет решить широкий спектр задач.
-            </p>
-          </div>
-          <div
-            class="mt-12 mx-auto max-w-md px-4 grid gap-8 sm:max-w-lg sm:px-6 lg:px-8 lg:grid-cols-3 lg:max-w-7xl">
-            <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-              <div class="flex-shrink-0">
-                <img class="h-48 w-full object-cover"
-                     src="/image/loft.jpg"
-                     alt="loft"
-                >
-              </div>
-              <div class="flex-1 bg-white p-6 flex flex-col justify-between">
-                <div class="flex-1">
-                  <p class="text-sm font-medium text-cyan-600">
-                    <a href="#" class="hover:underline">
-                      Стиль Лофт
-                    </a>
-                  </p>
-                  <a href="#" class="block mt-2">
-                    <p class="text-base font-semibold text-gray-900">
-                      ул. Украинская - 48 кв/м
-                    </p>
-                    <p class="mt-3 text-base text-gray-500">
-                      Однокомнатную квартиру застройщик сдал без какой-либо отделки.
-                      Компания "Гостремонт" разработала и согласовала дизайн-проект будущей квартиры с
-                      планировавочным
-                      решением и функциональным дизайном в стиле LOFT.
-                      Сохранив обособленным спальное место, нам удалось расширить жизненное пространство для молодой
-                      семьи.
-                    </p>
-                  </a>
-                </div>
-                <div class="mt-6 flex items-center">
-                  <div class="flex-shrink-0">
-                    <a href="#">
-                      <img class="h-10 w-10 rounded-full"
-                           src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-                           alt="Roel Aufderehar">
-                    </a>
-                  </div>
-                  <div class="ml-3">
-                    <p class="text-sm font-medium text-gray-900">
-                      <a href="#" class="hover:underline">
-                        Александр Ф.
-                      </a>
-                    </p>
-                    <div class="flex space-x-1 text-sm text-gray-500">
-                      <!--                          <time datetime="2020-03-16">-->
-                      <!--                            16 марта 2020-->
-                      <!--                          </time>-->
-                      <p>
-                        "Мы с женой даже не ожидали, что получится так красиво и стильно."
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-              <div class="flex-shrink-0">
-                <img class="h-48 w-full object-cover"
-                     src="/image/sovr.jpg"
-                     alt="modern">
-              </div>
-              <div class="flex-1 bg-white p-6 flex flex-col justify-between">
-                <div class="flex-1">
-                  <p class="text-sm font-medium text-cyan-600">
-                    <a href="#" class="hover:underline">
-                      Современный стиль
-                    </a>
-                  </p>
-                  <a href="#" class="block mt-2">
-                    <p class="text-base font-semibold text-gray-900">
-                      ул. Космонавта Комарова - 62 кв/м
-                    </p>
-                    <p class="mt-3 text-base text-gray-500">
-                      Проект обновления квартиры в кирпичной пятиэтажки застройки конца 70-х годов. Материалы
-                      подобранные к проекту создали лёгкое и светлое настроение от пребывания в этой квартире. Все
-                      пожелания заказчика были учтены и реализованы в полной мере, есть даже рабочая зона. </p>
-                  </a>
-                </div>
-                <div class="mt-6 flex items-center">
-                  <div class="flex-shrink-0">
-                    <a href="#">
-                      <img class="h-10 w-10 rounded-full"
-                           src="https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-                           alt="Brenna Goyette">
-                    </a>
-                  </div>
-                  <div class="ml-3">
-                    <p class="text-sm font-medium text-gray-900">
-                      <a href="#" class="hover:underline">
-                        Светлана
-                      </a>
-                    </p>
-                    <div class="space-x-1 text-sm text-gray-500">
-                      <!--                          <time datetime="2020-03-10">-->
-                      <!--                            24 января 2021-->
-                      <!--                          </time>-->
-                      <p>
-                        "Всё устроило более чем. По срокам всё соблюдено на отлично!"
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
-              <div class="flex-shrink-0">
-                <img class="h-48 w-full object-cover" src="/image/classic.jpg" alt="">
-              </div>
-              <div class="flex-1 bg-white p-6 flex flex-col justify-between">
-                <div class="flex-1">
-                  <p class="text-sm font-medium text-cyan-600">
-                    <a href="#" class="hover:underline">
-                      Классический стиль
-                    </a>
-                  </p>
-                  <a href="#" class="block mt-2">
-                    <p class="text-base font-semibold text-gray-900">
-                      ул. Республиканская - 102 м/кв
-                    </p>
-                    <p class="mt-3 text-base text-gray-500">
-                      Ремонт новой трёхкомнатной квартиры в новом жилом комплексе был начат сразу после сдачи
-                      застройщиком дома в эксплуатацию. Дизайнер нашёл оптимальное решение в классических спокойных
-                      и светлых тонах. Прекрасным решением было поставить двери типа "купэ" чтобы разграничить кухню
-                      с большой гостиной комнатой. </p>
-                  </a>
-                </div>
-                <div class="mt-6 flex items-center">
-                  <div class="flex-shrink-0">
-                    <a href="#">
-                      <img class="h-10 w-10 rounded-full"
-                           src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-                           alt="Daniela Metz">
-                    </a>
-                  </div>
-                  <div class="ml-3">
-                    <p class="text-sm font-medium text-gray-900">
-                      <a href="#" class="hover:underline">
-                        Кристина
-                      </a>
-                    </p>
-                    <div class="flex space-x-1 text-sm text-gray-500">
-                      <!--                          <time datetime="2020-02-12">-->
-                      <!--                            Feb 12, 2020-->
-                      <!--                          </time>-->
-                      <p>
-                        "Получилось чисто, как я хотела, спасибо "Гостремонт", что всё учли."
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
 
 
       <div class="relative py-16 bg-white overflow-hidden">
@@ -548,7 +377,7 @@
           <div class="text-lg max-w-prose mx-auto">
             <h1>
               <span
-                class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-main sm:text-4xl">Ремонт квартир под ключ</span>
+                class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-main sm:text-4xl">Ремонт квартиры от компании <br> "ГОСТ РЕМОНТ"</span>
             </h1>
             <p class="mt-8 text-xl text-gray-500 leading-8">
               Если вы решили сделать ремонт, то доверьтесь добросовестному исполнителю! В результате ваша квартира
@@ -592,6 +421,41 @@
         </div>
       </div>
 
+
+      <div class="bg-white">
+        <div class="max-w-2xl mx-auto py-24 px-4 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8">
+          <div class="max-w-3xl mx-auto text-center">
+            <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">Варианты сотрудничества</h2>
+            <p class="mt-4 text-gray-500">As a digital creative, your laptop or tablet is at the center of your work. Keep your device safe with a fabric sleeve that matches in quality and looks.</p>
+          </div>
+
+          <div class="mt-16 space-y-16">
+            <div class="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:gap-x-8 lg:items-center">
+              <div class="mt-6 lg:mt-0 lg:row-start-1 lg:col-span-5 xl:col-span-4 lg:col-start-1">
+                <h3 class="text-lg font-medium text-gray-900">Полный ремонт квартиры "под ключ"</h3>
+                <p class="mt-2 text-sm text-gray-500">Our laptop sleeve is compact and precisely fits 13&quot; devices. The zipper allows you to access the interior with ease, and the front pouch provides a convenient place for your charger cable.</p>
+              </div>
+              <div class="flex-auto lg:row-start-1 lg:col-span-7 xl:col-span-8 lg:col-start-6 xl:col-start-5">
+                <div class="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden">
+                  <img src="https://tailwindui.com/img/ecommerce-images/product-feature-07-detail-01.jpg" alt="White canvas laptop sleeve with gray felt interior, silver zipper, and tan leather zipper pull." class="object-center object-cover">
+                </div>
+              </div>
+            </div>
+
+            <div class="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:gap-x-8 lg:items-center">
+              <div class="mt-6 lg:mt-0 lg:row-start-1 lg:col-span-5 xl:col-span-4 lg:col-start-8 xl:col-start-9">
+                <h3 class="text-lg font-medium text-gray-900">Частичный ремонт квартиры</h3>
+                <p class="mt-2 text-sm text-gray-500">We design every detail with the best materials and finishes. This laptop sleeve features durable canvas with double-stitched construction, a felt interior, and a high quality zipper that hold up to daily use.</p>
+              </div>
+              <div class="flex-auto lg:row-start-1 lg:col-span-7 xl:col-span-8 lg:col-start-1">
+                <div class="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden">
+                  <img src="https://tailwindui.com/img/ecommerce-images/product-feature-07-detail-02.jpg" alt="Detail of zipper pull with tan leather and silver rivet." class="object-center object-cover">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <!-- CTA Section -->
       <div class="relative bg-gray-900" id="anchor4">
