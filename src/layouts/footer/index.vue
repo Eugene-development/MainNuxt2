@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="w-screen px-12 py-20 bg-gray-50" id="anchor6">
+    <div class=" px-12 py-20 bg-gray-50" id="anchor6">
       <div class="grid grid-cols-2 gap-24 md:grid-cols-6 lg:grid-cols-4">
         <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
           <img class="h-22" src="/Logo/Logo_shir_6.svg" alt="Tuple">

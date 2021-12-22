@@ -10,7 +10,7 @@
         </div>
         <div class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
           <h1 class="text-4xl font-extrabold tracking-tight text-white md:text-5xl lg:text-6xl">Услуги</h1>
-          <p class="mt-6 max-w-3xl text-xl text-gray-300">Varius facilisi mauris sed sit. Non sed et duis dui leo, vulputate id malesuada non. Cras aliquet purus dui laoreet diam sed lacus, fames. Dui, amet, nec sit pulvinar.</p>
+          <p class="mt-6 max-w-3xl text-xl text-gray-300">Наша компания предлагает вам воспользоваться услугами специалистов высокого квалификационного уровня. На все работы предоставляется гарантия.</p>
         </div>
       </div>
 
@@ -79,7 +79,279 @@
           <dl class="divide-y divide-gray-200">
             <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
               <dt class="text-base font-medium text-gray-900 md:col-span-5">
-                What&#039;s the best thing about Switzerland?
+                Демонтаж
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Возведение перегородок
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Электромонтажные работы
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Заливка стяжки пола
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Монтаж инженерной сантехники
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Штукатурка стен
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Укладка плитки санузлов
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Монтаж конструкций ГКЛ
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Заливка наливных полов
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Укладка плитки пола
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Шпатлевка стен и потолков
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Покраска потолков
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Укладка напольного покрытия
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Поклейка обоев
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Установка дверей
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Монтаж плинтусов и багета
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Монтаж бытовой сантехники
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base text-gray-500">
+                  I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                </p>
+              </dd>
+            </div>
+
+            <!-- More questions... -->
+          </dl>
+        </div>
+        <div class="mt-8">
+          <dl class="divide-y divide-gray-200">
+            <div class="pt-6 pb-8 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base font-medium text-gray-900 md:col-span-5">
+                Монтаж натяжных потолков
               </dt>
               <dd class="mt-2 md:mt-0 md:col-span-7">
                 <p class="text-base text-gray-500">

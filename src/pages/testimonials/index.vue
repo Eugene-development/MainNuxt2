@@ -73,23 +73,20 @@
               <div class="hidden lg:block lg:col-span-2">
                 <nav class="flex space-x-4">
                   <a href="#" class="text-white text-sm font-medium rounded-md bg-white bg-opacity-0 px-3 py-2 hover:bg-opacity-10" aria-current="page">
-                    Home
+                    2018
+                  </a>
+
+
+                  <a href="#" class="text-cyan-100 text-sm font-medium rounded-md bg-white bg-opacity-0 px-3 py-2 hover:bg-opacity-10">
+                    2019
                   </a>
 
                   <a href="#" class="text-cyan-100 text-sm font-medium rounded-md bg-white bg-opacity-0 px-3 py-2 hover:bg-opacity-10">
-                    Profile
+                    2020
                   </a>
 
                   <a href="#" class="text-cyan-100 text-sm font-medium rounded-md bg-white bg-opacity-0 px-3 py-2 hover:bg-opacity-10">
-                    Resources
-                  </a>
-
-                  <a href="#" class="text-cyan-100 text-sm font-medium rounded-md bg-white bg-opacity-0 px-3 py-2 hover:bg-opacity-10">
-                    Company Directory
-                  </a>
-
-                  <a href="#" class="text-cyan-100 text-sm font-medium rounded-md bg-white bg-opacity-0 px-3 py-2 hover:bg-opacity-10">
-                    Openings
+                    2021
                   </a>
                 </nav>
               </div>
@@ -174,17 +171,17 @@
                 <div class="border-t border-gray-200 bg-gray-50 grid grid-cols-1 divide-y divide-gray-200 sm:grid-cols-3 sm:divide-y-0 sm:divide-x">
                   <div class="px-6 py-5 text-sm font-medium text-center">
                     <span class="text-gray-900">12</span>
-                    <span class="text-gray-600">Vacation days left</span>
+                    <span class="text-gray-600">отзывов в этом году</span>
                   </div>
 
                   <div class="px-6 py-5 text-sm font-medium text-center">
-                    <span class="text-gray-900">4</span>
-                    <span class="text-gray-600">Sick days left</span>
+                    <span class="text-gray-900">44</span>
+                    <span class="text-gray-600">за всё время</span>
                   </div>
 
                   <div class="px-6 py-5 text-sm font-medium text-center">
-                    <span class="text-gray-900">2</span>
-                    <span class="text-gray-600">Personal days left</span>
+                    <span class="text-gray-900">41</span>
+                    <span class="text-gray-600">положительных отзывов</span>
                   </div>
                 </div>
               </div>
@@ -209,7 +206,7 @@
                       <a href="#" class="focus:outline-none">
                         <!-- Extend touch target to entire panel -->
                         <span class="absolute inset-0" aria-hidden="true"></span>
-                        Request time off
+                        Отзывы за всё время
                       </a>
                     </h3>
                     <p class="mt-2 text-sm text-gray-500">
@@ -237,7 +234,7 @@
                       <a href="#" class="focus:outline-none">
                         <!-- Extend touch target to entire panel -->
                         <span class="absolute inset-0" aria-hidden="true"></span>
-                        Benefits
+                        Честность
                       </a>
                     </h3>
                     <p class="mt-2 text-sm text-gray-500">
@@ -265,7 +262,7 @@
                       <a href="#" class="focus:outline-none">
                         <!-- Extend touch target to entire panel -->
                         <span class="absolute inset-0" aria-hidden="true"></span>
-                        Schedule a one-on-one
+                        Лояльность
                       </a>
                     </h3>
                     <p class="mt-2 text-sm text-gray-500">
@@ -293,7 +290,7 @@
                       <a href="#" class="focus:outline-none">
                         <!-- Extend touch target to entire panel -->
                         <span class="absolute inset-0" aria-hidden="true"></span>
-                        Payroll
+                        Открытость
                       </a>
                     </h3>
                     <p class="mt-2 text-sm text-gray-500">
@@ -321,7 +318,7 @@
                       <a href="#" class="focus:outline-none">
                         <!-- Extend touch target to entire panel -->
                         <span class="absolute inset-0" aria-hidden="true"></span>
-                        Submit an expense
+                        Обратная связь
                       </a>
                     </h3>
                     <p class="mt-2 text-sm text-gray-500">
@@ -351,7 +348,7 @@
                       <a href="#" class="focus:outline-none">
                         <!-- Extend touch target to entire panel -->
                         <span class="absolute inset-0" aria-hidden="true"></span>
-                        Training
+                        Экспертность
                       </a>
                     </h3>
                     <p class="mt-2 text-sm text-gray-500">
@@ -374,7 +371,7 @@
             <section aria-labelledby="announcements-title">
               <div class="rounded-lg bg-white overflow-hidden shadow">
                 <div class="p-6">
-                  <h2 class="text-2xl font-medium text-gray-900" id="announcements-title">Отзывы:</h2>
+                  <h2 class="text-2xl font-medium text-gray-900" id="announcements-title">Отзывы за 2021 год:</h2>
                   <div class="flow-root mt-6">
                     <ul role="list" class="-my-5 divide-y divide-gray-200">
                       <li class="py-5">
@@ -424,8 +421,8 @@
                     </ul>
                   </div>
                   <div class="mt-6">
-                    <a href="#" class="w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50">
-                      View all
+                    <a href="#" class="cursor-not-allowed w-full flex justify-center items-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50">
+                      Смотреть все
                     </a>
                   </div>
                 </div>

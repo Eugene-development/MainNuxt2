@@ -26,8 +26,8 @@
                 </div>
               </div>
               <div class="hidden space-x-8 md:flex md:ml-10">
-                <NuxtLink to="about" class="text-center font-medium text-white hover:text-gray-300">Компания</NuxtLink>
                 <NuxtLink to="services" class="text-base font-medium text-white hover:text-gray-300">Услуги</NuxtLink>
+                <NuxtLink to="about" class="text-center font-medium text-white hover:text-gray-300">Компания</NuxtLink>
                 <NuxtLink to="gallery" class="text-base font-medium text-white hover:text-gray-300">Галерея</NuxtLink>
                 <NuxtLink to="testimonials" class="text-base font-medium text-white hover:text-gray-300">Отзывы</NuxtLink>
                 <NuxtLink to="specialists" class="text-base font-medium text-white hover:text-gray-300">Специалисты</NuxtLink>
@@ -41,7 +41,7 @@
               </p>
                 <button @click="changeVisibleFormMeasurement" type="button"
                         class="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-gradient-to-r from-green-600 to-cyan-700">
-                  Записаться на замер
+                  Получить консультацию
                 </button>
             </div>
           </nav>
@@ -139,10 +139,10 @@
                         <div class="flex items-start justify-between space-x-3">
                           <div class="space-y-1">
                             <h2 class="text-lg font-medium text-gray-900" id="slide-over-title">
-                              Заявка на бесплатный замер
+                              Заявка на бесплатную косультацию
                             </h2>
                             <p class="text-sm text-gray-500">
-                              Предварительно наш специалист свяжется с вами для обсуждения деталей.
+                              Наш специалист свяжется с вами для обсуждения деталей в удобное для вас время. Услуга бесплатная!
                             </p>
                           </div>
                           <div class="h-7 flex items-center">
@@ -187,7 +187,7 @@
                         <div class="space-y-1 px-4 sm:space-y-0 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 sm:py-5">
                           <div>
                             <label for="address" class="block text-sm font-medium text-gray-900 sm:mt-px sm:pt-2">
-                              Адрес замера
+                              Адрес объекта
                             </label>
                           </div>
                           <div class="sm:col-span-2">
@@ -241,7 +241,7 @@
                           <div>
                             <label for="project-description"
                                    class="block text-sm font-medium text-gray-900 sm:mt-px sm:pt-2">
-                              Комментарий
+                              Ваш вопрос
                             </label>
                           </div>
                           <div class="sm:col-span-2">
