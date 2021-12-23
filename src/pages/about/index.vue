@@ -150,10 +150,10 @@
                 <dl class="grid grid-cols-1 gap-x-4 gap-y-8 sm:grid-cols-2">
                   <div class="sm:col-span-1">
                     <dt class="text-sm font-medium text-gray-500">
-                      ИНН
+                      ИНН/КПП
                     </dt>
                     <dd class="mt-1 text-sm text-gray-900">
-                      Backend Developer
+                      5262354912/526201001
                     </dd>
                   </div>
                   <div class="sm:col-span-1">
@@ -161,15 +161,15 @@
                       ОГРН
                     </dt>
                     <dd class="mt-1 text-sm text-gray-900">
-                      ricardocooper@example.com
+                      1185275008665
                     </dd>
                   </div>
                   <div class="sm:col-span-1">
                     <dt class="text-sm font-medium text-gray-500">
-                      ОКПО
+                      Юридический адрес
                     </dt>
                     <dd class="mt-1 text-sm text-gray-900">
-                      $120,000
+                      Нижний Новгород, Пушкина 18, оф. 631
                     </dd>
                   </div>
                   <div class="sm:col-span-1">
@@ -177,7 +177,7 @@
                       Директор
                     </dt>
                     <dd class="mt-1 text-sm text-gray-900">
-                      +1 555-555-5555
+                      Колобов Д.В.
                     </dd>
                   </div>
                   <div class="sm:col-span-2">
@@ -185,7 +185,8 @@
                       Деятельность
                     </dt>
                     <dd class="mt-1 text-sm text-gray-900">
-                      Fugiat ipsum ipsum deserunt culpa aute sint do nostrud anim incididunt cillum culpa consequat. Excepteur qui ipsum aliquip consequat sint. Sit id mollit nulla mollit nostrud in ea officia proident. Irure nostrud pariatur mollit ad adipisicing reprehenderit deserunt qui eu.
+                      Оказание услуг населению по ремонту внутренних помещений, замены канализации, электрики, возведению перегородок, монтажу натяжных потолков, установке межкомнатных и входных дверей и пр.
+
                     </dd>
                   </div>
                   <div class="sm:col-span-2">
@@ -233,7 +234,7 @@
                 </dl>
               </div>
               <div>
-                <a href="#" class="block bg-gray-50 text-sm font-medium text-gray-500 text-center px-4 py-4 hover:text-gray-700 sm:rounded-b-lg">Данная информация предоставлена в общий доступ сети интернет строго для ознакомления.</a>
+                <div class="block bg-gray-50 text-sm font-medium text-gray-500 text-center px-4 py-4 hover:text-gray-700 sm:rounded-b-lg">Данная информация предоставлена в общий доступ сети интернет строго для ознакомления.</div>
               </div>
             </div>
           </section>
