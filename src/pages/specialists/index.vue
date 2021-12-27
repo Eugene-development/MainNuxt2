@@ -1,7 +1,7 @@
 <template>
   <!-- This example requires Tailwind CSS v2.0+ -->
-  <div class="bg-white">
-    <div class="pb-24 bg-gradient-to-r from-sky-800 to-cyan-600">
+  <div class="bg-white ">
+    <div class="pb-24 bg-gradient-to-r from-sky-700 to-cyan-500">
       <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <div class="relative flex flex-wrap items-center justify-center lg:justify-between">
           <!-- Logo -->
@@ -54,30 +54,7 @@
             </div>
           </div>
 
-          <!-- Menu button -->
-          <div class="absolute right-0 flex-shrink-0 lg:hidden">
-            <!-- Mobile menu button -->
-            <button type="button" class="bg-transparent p-2 rounded-md inline-flex items-center justify-center text-cyan-200 hover:text-white hover:bg-white hover:bg-opacity-10 focus:outline-none focus:ring-2 focus:ring-white" aria-expanded="false">
-              <span class="sr-only">Open main menu</span>
-              <!--
-                Heroicon name: outline/menu
-
-                Menu open: "hidden", Menu closed: "block"
-              -->
-              <svg class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-              </svg>
-              <!--
-                Heroicon name: outline/x
-
-                Menu open: "block", Menu closed: "hidden"
-              -->
-              <svg class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            </button>
           </div>
-        </div>
       </div>
 
       <!-- Mobile menu, show/hide based on mobile menu state. -->
@@ -85,31 +62,80 @@
       </div>
     </div>
 
-
-    <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
-      <div class="lg:grid lg:grid-cols-3 lg:gap-8">
-        <div>
-          <h2 class="text-3xl font-extrabold text-gray-900">
-            Frequently asked questions
-          </h2>
-          <p class="mt-4 text-lg text-gray-500">Can’t find the answer you’re looking for? Reach out to our <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500">customer support</a> team.</p>
-        </div>
-        <div class="mt-12 lg:mt-0 lg:col-span-2">
-          <dl class="space-y-12">
+      <div class="-mt-24 pb-8">
+        <div class="bg-gray-50 shadow-xl my-12 rounded-lg max-w-7xl mx-auto  px-4 sm:px-6 lg:py-20 lg:px-8">
+          <div class="lg:grid lg:grid-cols-3 lg:gap-8">
             <div>
-              <dt class="text-lg leading-6 font-medium text-gray-900">
-                How do you make holy water?
-              </dt>
-              <dd class="mt-2 text-base text-gray-500">
-                You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
-              </dd>
+              <h2 class="text-3xl font-extrabold text-gray-900">
+                Мастер отделочных работ
+              </h2>
+              <p class="mt-4 text-lg text-gray-500">Выполняет работы по Can’t find the answer you’re looking for? Reach out to our  team.</p>
             </div>
+            <div class="mt-12 lg:mt-0 lg:col-span-2">
+              <dl class="space-y-12">
+                <div>
+                  <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Зайцев Алексей Петрович, 24 года
+                  </dt>
+                  <dd class="mt-2 text-base text-gray-500">
+                    You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                  </dd>
+                </div>
 
-            <!-- More questions... -->
-          </dl>
+                <!-- More questions... -->
+              </dl>
+            </div>
+          </div>
+        </div>
+        <div class="bg-gray-50 shadow-xl my-12 rounded-lg max-w-7xl mx-auto  px-4 sm:px-6 lg:py-20 lg:px-8">
+          <div class="lg:grid lg:grid-cols-3 lg:gap-8">
+            <div>
+              <h2 class="text-3xl font-extrabold text-gray-900">
+                Мастер отделочных работ
+              </h2>
+              <p class="mt-4 text-lg text-gray-500">Выполняет работы по Can’t find the answer you’re looking for? Reach out to our  team.</p>
+            </div>
+            <div class="mt-12 lg:mt-0 lg:col-span-2">
+              <dl class="space-y-12">
+                <div>
+                  <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Зайцев Алексей Петрович, 24 года
+                  </dt>
+                  <dd class="mt-2 text-base text-gray-500">
+                    You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                  </dd>
+                </div>
+
+                <!-- More questions... -->
+              </dl>
+            </div>
+          </div>
+        </div>
+        <div class="bg-gray-50 shadow-xl my-12 rounded-lg max-w-7xl mx-auto  px-4 sm:px-6 lg:py-20 lg:px-8">
+          <div class="lg:grid lg:grid-cols-3 lg:gap-8">
+            <div>
+              <h2 class="text-3xl font-extrabold text-gray-900">
+                Мастер отделочных работ
+              </h2>
+              <p class="mt-4 text-lg text-gray-500">Выполняет работы по Can’t find the answer you’re looking for? Reach out to our  team.</p>
+            </div>
+            <div class="mt-12 lg:mt-0 lg:col-span-2">
+              <dl class="space-y-12">
+                <div>
+                  <dt class="text-lg leading-6 font-medium text-gray-900">
+                    Зайцев Алексей Петрович, 24 года
+                  </dt>
+                  <dd class="mt-2 text-base text-gray-500">
+                    You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.
+                  </dd>
+                </div>
+
+                <!-- More questions... -->
+              </dl>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
   </div>
 
 </template>

@@ -299,6 +299,89 @@
         </div>
       </div>
 
+
+
+
+      <div class="relative py-12 bg-white overflow-hidden">
+        <div class="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
+          <div class="relative h-full text-lg max-w-prose mx-auto" aria-hidden="true">
+            <svg class="absolute top-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
+              <defs>
+                <pattern id="74b3fd99-0a6f-4271-bef2-e80eeafdf357" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                  <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+                </pattern>
+              </defs>
+              <rect width="404" height="384" fill="url(#74b3fd99-0a6f-4271-bef2-e80eeafdf357)" />
+            </svg>
+            <svg class="absolute top-1/2 right-full transform -translate-y-1/2 -translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
+              <defs>
+                <pattern id="f210dbf6-a58d-4871-961e-36d5016a0f49" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                  <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+                </pattern>
+              </defs>
+              <rect width="404" height="384" fill="url(#f210dbf6-a58d-4871-961e-36d5016a0f49)" />
+            </svg>
+            <!--        <svg class="absolute bottom-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">-->
+            <!--          <defs>-->
+            <!--            <pattern id="d3eb07ae-5182-43e6-857d-35c643af9034" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">-->
+            <!--              <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />-->
+            <!--            </pattern>-->
+            <!--          </defs>-->
+            <!--          <rect width="404" height="384" fill="url(#d3eb07ae-5182-43e6-857d-35c643af9034)" />-->
+            <!--        </svg>-->
+          </div>
+        </div>
+
+        <div class="relative px-4 sm:px-6 lg:px-8">
+          <div class="text-lg max-w-prose mx-auto">
+            <h1>
+              <span
+                class="mt-16 block text-4xl text-center leading-8 font-extrabold tracking-tight text-gray-800 sm:text-4xl">Ремонт квартиры от компании <br> "ГОСТ РЕМОНТ"</span>
+            </h1>
+            <p class="mt-8 text-xl text-gray-500 leading-8">
+              Если вы решили сделать ремонт, то доверьтесь добросовестному исполнителю! В результате ваша квартира
+              заиграет новыми красками и при этом вы сохраните свой бюджет, так как цены на наши услуги приемлемы.<br>
+              Ремонтно-строительная компания «Гостремонт» - надежный партнер, проверенный
+              временем и сотнями успешными работами в портфолио. И мы надеемся вы станете очередным довольным клиентом.<br>
+              Компания гарантирует качественный ремонт квартир под ключ в Нижнем Новгороде. Предлагает отделку
+              внутренних помещений (эконом, комфорт, премиум), а также занимается установкой натяжных потолков различной
+              категории сложности (стандартные, двухуровневые, парящие).<br>
+              «Гостремонт» - это:
+            </p>
+            <ul class="text-xl text-gray-500 leading-8">
+              <li>
+                <span class="font-bold">Честный и прозрачный расчет</span><br>
+                Окончательная стоимость работ не меняется с момента заключения контракта.
+                Мы следим за неукоснительным выполнением договорённостей.
+              </li>
+              <li>
+                <span class="font-bold">Качественные материалы</span><br>
+                Только сертифицированное оборудование и материалы, соответствующие отечественным и мировым стандартам,
+                приобрести которые вы так же можете у нас по низким ценам
+              </li>
+              <li>
+                <span class="font-bold">Внимание к каждому клиенту</span><br>
+                Мы ценим каждого клиента, обратившегося к нам и стремимся делать свою работу так, чтобы видеть
+                искреннюю радость на лице клиента по окончании выполнения работ.
+              </li>
+            </ul>
+            <p class="text-xl text-gray-500 leading-8">
+              Ждём ваших обращений в нашу компанию! Наши менеджеры постараются дать вам исчерпывающую информацию.
+            </p>
+          </div>
+          <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
+            <!--        <h3>Ждём вас!!!</h3>-->
+            <figure>
+              <!--          <img class="w-full rounded-lg" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3" alt="" width="1310" height="873">-->
+            </figure>
+            <!--        <p>Purus morbi dignissim senectus mattis <a href="#">adipiscing</a>. Amet, massa quam varius orci dapibus volutpat cras. In amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie. Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc, congue erat ac. Cras fermentum convallis quam.</p>-->
+            <!--        <p>Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.</p>-->
+          </div>
+        </div>
+      </div>
+
+
+
       <!-- Testimonial section -->
       <div class="pb-16 bg-gradient-to-tr from-green-400 via-green-600  to-green-500 lg:pb-0 lg:z-5 lg:relative">
         <div class="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-3 lg:gap-8">
@@ -341,87 +424,6 @@
       </div>
 
 
-
-
-      <div class="relative py-16 bg-white overflow-hidden">
-        <div class="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
-          <div class="relative h-full text-lg max-w-prose mx-auto" aria-hidden="true">
-            <svg class="absolute top-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
-              <defs>
-                <pattern id="74b3fd99-0a6f-4271-bef2-e80eeafdf357" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-                  <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
-                </pattern>
-              </defs>
-              <rect width="404" height="384" fill="url(#74b3fd99-0a6f-4271-bef2-e80eeafdf357)" />
-            </svg>
-            <svg class="absolute top-1/2 right-full transform -translate-y-1/2 -translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
-              <defs>
-                <pattern id="f210dbf6-a58d-4871-961e-36d5016a0f49" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-                  <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
-                </pattern>
-              </defs>
-              <rect width="404" height="384" fill="url(#f210dbf6-a58d-4871-961e-36d5016a0f49)" />
-            </svg>
-            <!--        <svg class="absolute bottom-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">-->
-            <!--          <defs>-->
-            <!--            <pattern id="d3eb07ae-5182-43e6-857d-35c643af9034" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">-->
-            <!--              <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />-->
-            <!--            </pattern>-->
-            <!--          </defs>-->
-            <!--          <rect width="404" height="384" fill="url(#d3eb07ae-5182-43e6-857d-35c643af9034)" />-->
-            <!--        </svg>-->
-          </div>
-        </div>
-
-        <div class="relative px-4 sm:px-6 lg:px-8">
-          <div class="text-lg max-w-prose mx-auto">
-            <h1>
-              <span
-                class="mt-16 block text-3xl text-center leading-8 font-extrabold tracking-tight text-main sm:text-4xl">Ремонт квартиры от компании <br> "ГОСТ РЕМОНТ"</span>
-            </h1>
-            <p class="mt-8 text-xl text-gray-500 leading-8">
-              Если вы решили сделать ремонт, то доверьтесь добросовестному исполнителю! В результате ваша квартира
-              заиграет новыми красками и при этом вы сохраните свой бюджет, так как цены на наши услуги приемлемы.<br>
-              Ремонтно-строительная компания «Гостремонт» - надежный партнер, проверенный
-              временем и сотнями успешными работами в портфолио. И мы надеемся вы станете очередным довольным клиентом.<br>
-              Компания гарантирует качественный ремонт квартир под ключ в Нижнем Новгороде. Предлагает отделку
-              внутренних помещений (эконом, комфорт, премиум), а также занимается установкой натяжных потолков различной
-              категории сложности (стандартные, двухуровневые, парящие).<br>
-              «Гостремонт» - это:
-            </p>
-            <ul class="text-xl text-gray-500 leading-8">
-              <li>
-                <span class="font-bold">честный и прозрачный расчет</span><br>
-                Окончательная стоимость работ не меняется с момента заключения контракта.
-                Мы следим за неукоснительным выполнением договорённостей.
-              </li>
-              <li>
-                <span class="font-bold">качественные материалы</span><br>
-                Только сертифицированное оборудование и материалы, соответствующие отечественным и мировым стандартам,
-                приобрести которые вы так же можете у нас по низким ценам
-              </li>
-              <li>
-                <span class="font-bold">внимание к каждому клиенту</span><br>
-                Мы ценим каждого клиента, обратившегося к нам и стремимся делать свою работу так, чтобы видеть
-                искреннюю радость на лице клиента по окончании выполнения работ.
-              </li>
-            </ul>
-            <p class="text-xl text-gray-500 leading-8">
-              Ждём ваших обращений в нашу компанию! Наши менеджеры постараются дать вам исчерпывающую информацию.
-            </p>
-          </div>
-          <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
-            <!--        <h3>Ждём вас!!!</h3>-->
-            <figure>
-              <!--          <img class="w-full rounded-lg" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3" alt="" width="1310" height="873">-->
-            </figure>
-            <!--        <p>Purus morbi dignissim senectus mattis <a href="#">adipiscing</a>. Amet, massa quam varius orci dapibus volutpat cras. In amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie. Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc, congue erat ac. Cras fermentum convallis quam.</p>-->
-            <!--        <p>Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.</p>-->
-          </div>
-        </div>
-      </div>
-
-
       <div class="bg-white">
         <div class="max-w-2xl mx-auto py-24 px-4 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8">
           <div class="max-w-3xl mx-auto text-center">
@@ -436,8 +438,8 @@
                 <p class="mt-2 text-sm text-gray-500">Our laptop sleeve is compact and precisely fits 13&quot; devices. The zipper allows you to access the interior with ease, and the front pouch provides a convenient place for your charger cable.</p>
               </div>
               <div class="flex-auto lg:row-start-1 lg:col-span-7 xl:col-span-8 lg:col-start-6 xl:col-start-5">
-                <div class="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden">
-                  <img src="https://tailwindui.com/img/ecommerce-images/product-feature-07-detail-01.jpg" alt="White canvas laptop sleeve with gray felt interior, silver zipper, and tan leather zipper pull." class="object-center object-cover">
+                <div class="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden shadow-xl">
+                  <img src="/image/kosmeticheskij-remont-kvartiry.jpg" alt="White canvas laptop sleeve with gray felt interior, silver zipper, and tan leather zipper pull." class="object-center object-cover">
                 </div>
               </div>
             </div>
@@ -448,8 +450,8 @@
                 <p class="mt-2 text-sm text-gray-500">We design every detail with the best materials and finishes. This laptop sleeve features durable canvas with double-stitched construction, a felt interior, and a high quality zipper that hold up to daily use.</p>
               </div>
               <div class="flex-auto lg:row-start-1 lg:col-span-7 xl:col-span-8 lg:col-start-1">
-                <div class="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden">
-                  <img src="https://tailwindui.com/img/ecommerce-images/product-feature-07-detail-02.jpg" alt="Detail of zipper pull with tan leather and silver rivet." class="object-center object-cover">
+                <div class="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden shadow-xl">
+                  <img src="/image/original_57d765d640c.jpg" alt="Detail of zipper pull with tan leather and silver rivet." class="object-center object-cover">
                 </div>
               </div>
             </div>
@@ -467,7 +469,7 @@
                 Цены на наши услуги
               </h2>
               <p class="mt-4 text-xl text-gray-600">
-                If you're not satisfied, contact us within the first 14 days and we'll send you a full refund.
+                Мы стараемся держать нашу ценовую политику в разумных размерах и не в ущерб качеству работ.
               </p>
             </div>
           </div>
@@ -479,15 +481,15 @@
               <div class="max-w-lg mx-auto rounded-lg shadow-lg overflow-hidden lg:max-w-none lg:flex">
                 <div class="flex-1 bg-white px-6 py-8 lg:p-12">
                   <h3 class="text-2xl font-extrabold text-gray-900 sm:text-3xl">
-                    Lifetime Membership
+                    Комплексный ремонт
                   </h3>
                   <p class="mt-6 text-base text-gray-500">
                     Lorem ipsum dolor sit amet consect etur adipisicing elit. Itaque amet indis perferendis blanditiis repellendus etur quidem assumenda.
                   </p>
                   <div class="mt-8">
                     <div class="flex items-center">
-                      <h4 class="flex-shrink-0 pr-4 bg-white text-sm tracking-wider font-semibold uppercase text-indigo-600">
-                        What's included
+                      <h4 class="flex-shrink-0 pr-4 bg-white text-sm tracking-wider font-semibold uppercase text-gray-900">
+                        Что вы получите
                       </h4>
                       <div class="flex-1 border-t-2 border-gray-200"></div>
                     </div>
@@ -495,48 +497,48 @@
                       <li class="flex items-start lg:col-span-1">
                         <div class="flex-shrink-0">
                           <!-- Heroicon name: solid/check-circle -->
-                          <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                          <svg class="h-5 w-5 text-green-700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                           </svg>
                         </div>
                         <p class="ml-3 text-sm text-gray-700">
-                          Private forum access
+                          Консультация и замер
                         </p>
                       </li>
 
                       <li class="flex items-start lg:col-span-1">
                         <div class="flex-shrink-0">
                           <!-- Heroicon name: solid/check-circle -->
-                          <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                          <svg class="h-5 w-5 text-green-700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                           </svg>
                         </div>
                         <p class="ml-3 text-sm text-gray-700">
-                          Member resources
+                          Дизайн проект
                         </p>
                       </li>
 
                       <li class="flex items-start lg:col-span-1">
                         <div class="flex-shrink-0">
                           <!-- Heroicon name: solid/check-circle -->
-                          <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                          <svg class="h-5 w-5 text-green-700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                           </svg>
                         </div>
                         <p class="ml-3 text-sm text-gray-700">
-                          Entry to annual conference
+                          Доставку материалов
                         </p>
                       </li>
 
                       <li class="flex items-start lg:col-span-1">
                         <div class="flex-shrink-0">
                           <!-- Heroicon name: solid/check-circle -->
-                          <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                          <svg class="h-5 w-5 text-green-700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                           </svg>
                         </div>
                         <p class="ml-3 text-sm text-gray-700">
-                          Official member t-shirt
+                          Гарантийное обслуживание
                         </p>
                       </li>
                     </ul>
@@ -544,35 +546,32 @@
                 </div>
                 <div class="py-8 px-6 text-center bg-gray-50 lg:flex-shrink-0 lg:flex lg:flex-col lg:justify-center lg:p-12">
                   <p class="text-lg leading-6 font-medium text-gray-900">
-                    Pay once, own it forever
+                    Цена ремонта от
                   </p>
                   <div class="mt-4 flex items-center justify-center text-5xl font-extrabold text-gray-900">
               <span>
-                $349
+                ₽3800
               </span>
                     <span class="ml-3 text-xl font-medium text-gray-500">
-                USD
+                кв/м
               </span>
                   </div>
                   <p class="mt-4 text-sm">
                     <a href="#" class="font-medium text-gray-500 underline">
-                      Learn about our membership policy
+                      За комплекс работ
                     </a>
                   </p>
                   <div class="mt-6">
                     <div class="rounded-md shadow">
                       <a href="#" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900">
-                        Get Access
+                        Получить консультацию
                       </a>
                     </div>
                   </div>
                   <div class="mt-4 text-sm">
-                    <a href="#" class="font-medium text-gray-900">
-                      Get a free sample
-                      <span class="font-normal text-gray-500">
-                  (20MB)
-                </span>
-                    </a>
+                    <div class="font-medium text-gray-900">
+                      Услуга бесплатная
+                    </div>
                   </div>
                 </div>
               </div>
